@@ -1,4 +1,4 @@
-## Hi and Welcome to My GitHub World!
+## ❗Hi and Welcome to My GitHub World!
 
 - 🙋 I’m Elena, but you can call me Lena.
 - 🎒 I’m currently studying coding at Hive Helsinki Code School (Ecole 42) https://www.hive.fi/en/, where I’m diving deep into the world of programming and problem-solving.
