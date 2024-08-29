@@ -1,7 +1,9 @@
 ## ❗- Welcome to My GitHub -
 
 - 🙋 I’m Elena!
-- 🎒 I’m currently studying coding at Hive Helsinki Code School (42 school) https://www.hive.fi/en/, where I’m diving deep into the world of programming and problem-solving.
+- 🎒 I’m currently studying coding at <a href="https://www.hive.fi/en/" target="_blank">Hive Helsinki Code School</a>
+-
+- Hive Helsinki Code School (42 school) https://www.hive.fi/en/, where I’m diving deep into the world of programming and problem-solving.
 
 - 💬 Feel free to browse, connect, and let’s explore new coding possibilities!
 - 📧 elena.polkhovski@gmail.com
