@@ -5,7 +5,7 @@
 
 - 💬 Feel free to browse, connect, and let’s explore new coding possibilities!
 - 📧 elena.polkhovski@gmail.com
--  ![linkedinlogo](https://github.com/user-attachments/assets/561e7dae-9ede-473a-bbec-6fbbf248b08b)https://fi.linkedin.com/in/elena-polkhovski-58635026
+- https://fi.linkedin.com/in/elena-polkhovski-58635026
 
 
 
