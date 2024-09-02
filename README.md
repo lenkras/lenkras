@@ -5,8 +5,7 @@
 
 - 💬 Feel free to browse, connect, and let’s explore new coding possibilities!
 - 📧 elena.polkhovski@gmail.com
-- https://fi.linkedin.com/in/elena-polkhovski-58635026
-
+- 📫  <a href="https://fi.linkedin.com/in/elena-polkhovski-58635026">My LinkedIn Profile</a>
 
 
 
