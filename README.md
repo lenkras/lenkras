@@ -3,7 +3,7 @@
 - 🙋 I’m Elena!
 - 🎒 I’m currently studying at <a href="https://www.hive.fi/en/" target="_blank">Hive Helsinki Code School</a> (<a href="https://www.42network.org" target="_blank">42Network</a>), where I’m diving deep into the world of programming and problem-solving.
 
-- 💬 Feel free to browse, connect, and let’s explore new coding possibilities!
+- 💬 Feel free to browse and connect!
 - 📧 elena.polkhovski@gmail.com
 - 📫  <a href="https://fi.linkedin.com/in/elena-polkhovski-58635026">My LinkedIn Profile</a>
 
