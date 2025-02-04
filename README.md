@@ -7,7 +7,7 @@
 - 📧 elena.polkhovski@gmail.com
 - 📫  <a href="https://fi.linkedin.com/in/elena-polkhovski-58635026">My LinkedIn Profile</a>
 
-## 🖥️ - Stack:
+## 🖥️ - Stack -
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
