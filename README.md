@@ -1,3 +1,4 @@
+![Intro Animation](present_to_git.gif)
 ## ❗- Welcome to My GitHub -
 
 - 🙋 I’m Elena!
