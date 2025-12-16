@@ -2,7 +2,8 @@
 ## ❗- Welcome to My GitHub -
 
 - 🙋 I’m Elena!
-- 🎒 I gaduated from <a href="https://www.hive.fi/en/" target="_blank">Hive Helsinki Code School</a> (<a href="https://www.42network.org" target="_blank">42Network</a>), where I studied programming and problem-solving. Currently, I am mastering my web development skills with React, JavaScript, Node.js as a Full-Stack Developer Intern at Anre Oy. 
+- 🎒  I am a graduate of <a href="https://www.hive.fi/en/" target="_blank"> Hive Helsinki (42 Network), with a strong foundation in programming and problem-solving.
+I am currently working as a Full-Stack Developer Intern at Anre Oy, building web applications with React, JavaScript, and Node.js.
 
 - 💬 Feel free to browse and connect!
 - 📧 elena.polkhovski@gmail.com
